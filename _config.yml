@@ -1,5 +1,4 @@
-title: RunDocs
-lang: en
+title: BK Home
 description: Extends the continuous integration documentation capabilities of GitHub pages for everyone!
 
 remote_theme: rundocs/jekyll-rtd-theme
