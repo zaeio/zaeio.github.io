@@ -27,7 +27,7 @@ sort: 2
 在浏览器中打开http://127.0.0.1:4000进行本地预览。  
 修改内容后点击刷新即可实时查看页面。  
 
-**问题**
+问题：  
 
 > cannot load such file -- webrick  
 
@@ -35,4 +35,4 @@ sort: 2
 
 ## 更换主题
 
-[jekyllthemes.org](http://jekyllthemes.org/)
+[jekyllthemes.org](http://jekyllthemes.org/)  
