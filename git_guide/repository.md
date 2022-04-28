@@ -9,6 +9,7 @@ sort: 1
     git init
     git add .
     git commit -m "message"
+    git branch -M main
 
 使用token将本地仓库关联到远程仓库  
 
